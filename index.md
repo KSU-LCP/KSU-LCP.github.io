@@ -8,6 +8,7 @@ Many people have had a hard time learning to play the popular game “League of 
 
 **Visit our site:** [ksulcp.com](https://ksulcp.com)
 **View our presentation:** [Youtube](https://www.youtube.com/watch?v=kLRHu5fpbro)
+**Find out project on github:** [KSU-LCP REPO](https://github.com/KSU-LCP/LCP)
 
 ## Team Members
 
