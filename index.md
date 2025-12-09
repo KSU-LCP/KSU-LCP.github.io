@@ -20,3 +20,4 @@ Many people have had a hard time learning to play the popular game “League of 
 | ![John](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/John.png?raw=true) | **John** | Documentation | [jtran50@students.kennesaw.edu](mailto:jtran50@students.kennesaw.edu)<br>470.557.2025 |
 
 
+Doc Ver 2
