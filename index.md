@@ -13,10 +13,10 @@ Many people have had a hard time learning to play the popular game “League of 
 
 | Photo | Name | Role | Contact |
 |-------|------|------|---------|
-| ![Konrad](images/konrad.jpg) | **Konrad** | Team Lead / Documentation | [Konkrad@proton.me](mailto:Konkrad@proton.me)<br>762.887.0844 |
-| ![Jose](images/jose.jpg) | **Jose** | Developer | [genjose1231@gmail.com](mailto:genjose1231@gmail.com)<br>706.618.1178 |
-| ![Nahum](images/nahum.jpg) | **Nahum** | Developer | [nahummancera1014@gmail.com](mailto:nahummancera1014@gmail.com)<br>706.980.1957 |
-| ![Erik](images/erik.jpg) | **Erik** | Test | [ErikVasquez121@gmail.com](mailto:ErikVasquez121@gmail.com)<br>706.913.6446 |
-| ![John](images/john.jpg) | **John** | Documentation | [jtran50@students.kennesaw.edu](mailto:jtran50@students.kennesaw.edu)<br>470.557.2025 |
+| ![Konrad](images/konrad.png) | **Konrad** | Team Lead / Documentation | [Konkrad@proton.me](mailto:Konkrad@proton.me)<br>762.887.0844 |
+| ![Jose](images/jose.png) | **Jose** | Developer | [genjose1231@gmail.com](mailto:genjose1231@gmail.com)<br>706.618.1178 |
+| ![Nahum](images/nahum.png) | **Nahum** | Developer | [nahummancera1014@gmail.com](mailto:nahummancera1014@gmail.com)<br>706.980.1957 |
+| ![Erik](images/erik.png) | **Erik** | Test | [ErikVasquez121@gmail.com](mailto:ErikVasquez121@gmail.com)<br>706.913.6446 |
+| ![John](images/john.png) | **John** | Documentation | [jtran50@students.kennesaw.edu](mailto:jtran50@students.kennesaw.edu)<br>470.557.2025 |
 
 
