@@ -7,6 +7,7 @@
 Many people have had a hard time learning to play the popular game “League of Legends.” With our platform, we will make it easier than ever for new players to learn how to improve their skills in the game. We will be building a modern web application that gives you individualized advice learned from a large dataset. Users will be able to enter their username and receive advice based on their recent games. 
 
 **Visit our site:** [ksulcp.com](https://ksulcp.com)
+**View our preport:** [Report PDF](https://raw.githubusercontent.com/KSU-LCP/KSU-LCP.github.io/5deb0a60a09946ad5556504a7a28537ff405642f/Indy-7%20-%20Final%20Report%202.0.pdf)
 **View our presentation:** [Youtube](https://www.youtube.com/watch?v=kLRHu5fpbro)
 **Find out project on github:** [KSU-LCP REPO](https://github.com/KSU-LCP/LCP)
 
