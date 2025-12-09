@@ -18,7 +18,7 @@ Many people have had a hard time learning to play the popular game “League of 
 | ![Jose](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/jose.png?raw=true) | **Jose** | Developer | [genjose1231@gmail.com](mailto:genjose1231@gmail.com)<br>706.618.1178 |
 | ![Nahum](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/nahum.png?raw=true) | **Nahum** | Developer | [nahummancera1014@gmail.com](mailto:nahummancera1014@gmail.com)<br>706.980.1957 |
 | ![Erik](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/erik.png?raw=true) | **Erik** | Test | [ErikVasquez121@gmail.com](mailto:ErikVasquez121@gmail.com)<br>706.913.6446 |
-| ![John](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/John.png?raw=true) | **John** | Documentation | [jtran50@students.kennesaw.edu](mailto:jtran50@students.kennesaw.edu)<br>470.557.2025 |
+| ![john](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/john.png?raw=true) | **John** | Documentation | [jtran50@students.kennesaw.edu](mailto:jtran50@students.kennesaw.edu)<br>470.557.2025 |
 
 
 Doc Ver 2
