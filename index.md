@@ -13,7 +13,7 @@ Many people have had a hard time learning to play the popular game “League of 
 
 | Photo | Name | Role | Contact |
 |-------|------|------|---------|
-| [Konrad](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/konrad.png?raw=true) | **Konrad** | Team Lead / Documentation | [Konkrad@proton.me](mailto:Konkrad@proton.me)<br>762.887.0844 |
+| ![Konrad](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/konrad.png?raw=true) | **Konrad** | Team Lead / Documentation | [Konkrad@proton.me](mailto:Konkrad@proton.me)<br>762.887.0844 |
 | ![Jose](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/jose.png?raw=true) | **Jose** | Developer | [genjose1231@gmail.com](mailto:genjose1231@gmail.com)<br>706.618.1178 |
 | ![Nahum](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/nahum.png?raw=true) | **Nahum** | Developer | [nahummancera1014@gmail.com](mailto:nahummancera1014@gmail.com)<br>706.980.1957 |
 | ![Erik](https://github.com/KSU-LCP/KSU-LCP.github.io/blob/main/erik.png?raw=true) | **Erik** | Test | [ErikVasquez121@gmail.com](mailto:ErikVasquez121@gmail.com)<br>706.913.6446 |
